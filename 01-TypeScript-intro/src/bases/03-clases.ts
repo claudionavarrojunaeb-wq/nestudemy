@@ -23,12 +23,19 @@ get imageUrl(): string{
     speak(){
         console.log(`${this.name}, ${this.name}`);
     }
+
+    async getMoves(){
+
+  
+    }
 }
 
 // export const charmander = new Pokemon(4, 'charmander', 'https://pokemon.com/4.jpg')
 export const charmander = new Pokemon(4, 'charmander')
 // charmander.id = 10;
 // charmander.name = 'Mew';
-console.log(charmander.imageUrl);
-console.log(charmander.scream());
-console.log(charmander.speak());
+// console.log(charmander.imageUrl);
+// console.log(charmander.scream());
+// console.log(charmander.speak());
+
+console.log(charmander.getMoves());
