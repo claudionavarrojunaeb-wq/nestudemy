@@ -1,7 +1,7 @@
 // import {name, age, isValid,templateString} from './bases/01-types';
 // import{pokemonIds,bulbasaur,charmander, pokemons} from './bases/02-objects';
 
-import { charmander } from "./bases/04-injection"
+import { charmander } from "./bases/05-decorattors"
 
 
 const app = document.querySelector<HTMLDivElement>('#app')!
