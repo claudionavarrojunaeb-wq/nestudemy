@@ -35,5 +35,6 @@ export class Pokemon {
 const pokeApiAxios = new PokeApiAdapter();
 const pokeApiFetch = new PokeApiFetchAdapter();
 export const charmander = new Pokemon( 4, 'Charmander',pokeApiAxios );
-
+export const pikachu = new Pokemon( 25, 'Pikachu',pokeApiFetch );
 charmander.getMoves();
+pikachu.getMoves();

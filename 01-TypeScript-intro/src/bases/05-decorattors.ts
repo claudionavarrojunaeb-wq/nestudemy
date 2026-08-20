@@ -15,7 +15,7 @@ class NewPokemon{
 
 const MyDecorator = () =>{
     return (target: Function) =>{
-        //console.log(target)
+        console.log(target)
         return NewPokemon;
     }
 }
