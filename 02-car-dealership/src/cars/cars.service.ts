@@ -39,6 +39,22 @@ export class CarsService {
     return car;
   }
 
+
+  create1(createCarDto: CreateCarDto) {
+    const car: Car = {
+      id: uuid(),
+      brand: createCarDto.brand,
+      model: createCarDto.model,
+    };
+  }
+  create2({ brand, model }: CreateCarDto) {
+    const car: Car = {
+      id: uuid(),
+      brand,
+      model,
+    };
+  }
+
   create(createCarDto: CreateCarDto) {
     const car: Car = {
       id: uuid(),
