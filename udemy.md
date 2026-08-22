@@ -57,10 +57,45 @@
 57. Temas puntuales de la sección
 58. Continuación de la sección
 59. Nest CLI Resource - Brands
+
 60. Crear CRUD completo de Brands
-
-
-
-
-
-
+60. Crear CRUD completo de Brands
+61. Crear servicio SEED para cargar datos
+62. Preparar servicios para insertar SEED
+63. Inyectar servicios en otros servicios
+64. Código fuente de la sección
+65. Introducción a la sección
+66. Generar build de producción básico
+67. Introducción a la sección
+68. Temas puntuales de la sección
+69. Inicio de proyecto - Pokedex
+70. Servir contenido estático
+71. Global Prefix
+72. Docker - DockerCompose - MongoDB
+73. README.md
+74. Conectar Nest con Mongo
+75. Crear esquemas y Modelos
+76. POST - Recibir y validar la data
+77. Crear Pokémon en base de datos
+78. Responder un error específico
+79. FindOneBy - Buscar por nombre, MongoId y no
+80. Actualizar Pokemon en base de datos
+81. Tarea - Validar valores únicos
+82. Eliminar un Pokemon
+83. CustomPipes - ParseMongoIdPipe
+84. Validar y eliminar en una sola consulta
+85. Respaldar código fuente en GitHub
+86. Código fuente de la sección
+87. Introducción a la sección
+88. Temas puntuales de la sección
+89. Continuación de proyecto
+90. Crear módulo SEED
+91. Nota de actualización - Axios
+92. Realizar petición http desde Nest
+93. Tarea - Insertar Pokemons por lote
+94. Resolución - Insertar Pokemons por lote
+95. Insertar multiples registros simultáneamente
+96. Crear un custom provider - opcional
+97. Paginación de Pokemons
+98. Transform DTOs
+99. Código fuente de la sección
