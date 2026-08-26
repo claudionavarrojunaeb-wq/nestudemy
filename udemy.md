@@ -1,101 +1,99 @@
-1. Video introductorio
-2. Introducción al curso
-3. ¿Cómo funcionará el curso?
-4. ¿Preguntas?
-5. Instalaciones recomendadas
-6. Material adicional - Guía de Atajos
-7. ¡Únete a Nuestra Comunidad de DevTalles en Discord!
-8. Introducción a la sección
-9. Temas puntuales de la sección
-10. Preparación del proyecto
-11. Tipos y bases sobre módulos
-12. Tipos de datos - continuación
-13. Objetos e interfaces
-14. Tipos en arreglos
-15. Clases y forma abreviada
-16. Getters, métodos y THIS
-17. Métodos asíncronos
-18. Colocar tipo de dato a respuestas http (genéricos)
-19. Inyección de dependencias
-20. Genéricos + Sustitución de Liskov
-21. Resolver el principio de sustitución
-22. Decoradores
-23. Decorador de método - @Deprecated
-24. Resumen de lo aprendido
-25. Código fuente de la sección
-26. Introducción a la sección
-27. Temas puntuales de la sección
-28. ¿Qué es Nest? y ¿Por qué usarlo?
-29. Instalar Nest CLI - Command Line Interface
-30. Generar nuestro primer proyecto - CarDealership
-31. Explicación de cada archivo y directorio
-32. Módulos
-33. Controladores
-34. Desactivar Prettier
-35. Obtener un carro por ID
-36. Servicios
-37. Inyección de dependencias
-38. Pipes
-39. Exception Filters
-40. Post, Patch y Delete
-41. Código fuente de la sección
-42. Introducción a la sección
-43. Temas puntuales de la sección
-44. Continuación de la sección
-45. Interfaces y UUID
-46. Pipe - ParseUUIDPipe
-47. DTO - Data Transfer Object
-48. ValidationPipe - Class Validator y Class Transformer
-49. Pipes Globales - A nivel de Aplicación
-50. Crear el nuevo carro
-51. Actualizar un carro
-52. Actualizar el listado de carros
-53. Borrar un carro
-54. Resumen de la sección
-55. Código fuente de la sección
-56. Introducción a la sección
-57. Temas puntuales de la sección
-58. Continuación de la sección
-59. Nest CLI Resource - Brands
-
-60. Crear CRUD completo de Brands
-60. Crear CRUD completo de Brands
-61. Crear servicio SEED para cargar datos
-62. Preparar servicios para insertar SEED
-63. Inyectar servicios en otros servicios
-64. Código fuente de la sección
-65. Introducción a la sección
-66. Generar build de producción básico
-67. Introducción a la sección
-68. Temas puntuales de la sección
-69. Inicio de proyecto - Pokedex
-70. Servir contenido estático
-71. Global Prefix
-72. Docker - DockerCompose - MongoDB
-73. README.md
-74. Conectar Nest con Mongo
-75. Crear esquemas y Modelos
-76. POST - Recibir y validar la data
-77. Crear Pokémon en base de datos
-78. Responder un error específico
-79. FindOneBy - Buscar por nombre, MongoId y no
-80. Actualizar Pokemon en base de datos
-81. Tarea - Validar valores únicos
-82. Eliminar un Pokemon
-83. CustomPipes - ParseMongoIdPipe
-84. Validar y eliminar en una sola consulta
-85. Respaldar código fuente en GitHub
-86. Código fuente de la sección
-87. Introducción a la sección
-88. Temas puntuales de la sección
-89. Continuación de proyecto
-90. Crear módulo SEED
-91. Nota de actualización - Axios
-92. Realizar petición http desde Nest
-93. Tarea - Insertar Pokemons por lote
-94. Resolución - Insertar Pokemons por lote
-95. Insertar multiples registros simultáneamente
-96. Crear un custom provider - opcional
-97. Paginación de Pokemons
-98. Transform DTOs
-99. Código fuente de la sección
+[✔️] 001. Video introductorio
+[✔️] 002. Introducción al curso
+[✔️] 003. ¿Cómo funcionará el curso?
+[✔️] 004. ¿Preguntas?
+[✔️] 005. Instalaciones recomendadas
+[✔️] 006. Material adicional - Guía de [✔️] Atajos
+[✔️] 007. ¡Únete a Nuestra Comunidad de DevTalles en Discord!
+[✔️] 008. Introducción a la sección
+[✔️] 009. Temas puntuales de la sección
+[✔️] 010. Preparación del proyecto
+[✔️] 011. Tipos y bases sobre módulos
+[✔️] 012. Tipos de datos - continuación
+[✔️] 013. Objetos e interfaces
+[✔️] 014. Tipos en arreglos
+[✔️] 015. Clases y forma abreviada
+[✔️] 016. Getters, métodos y THIS
+[✔️] 017. Métodos asíncronos
+[✔️] 018. Colocar tipo de dato a respuestas http (genéricos)
+[✔️] 019. Inyección de dependencias
+[✔️] 020. Genéricos + Sustitución de Liskov
+[✔️] 021. Resolver el principio de sustitución
+[✔️] 022. Decoradores
+[✔️] 023. Decorador de método - @Deprecated
+[✔️] 024. Resumen de lo aprendido
+[✔️] 025. Código fuente de la sección
+[✔️] 026. Introducción a la sección
+[✔️] 027. Temas puntuales de la sección
+[✔️] 028. ¿Qué es Nest? y ¿Por qué usarlo?
+[✔️] 029. Instalar Nest CLI - Command Line Interface
+[✔️] 030. Generar nuestro primer proyecto - CarDealership
+[✔️] 031. Explicación de cada archivo y directorio
+[✔️] 032. Módulos
+[✔️] 033. Controladores
+[✔️] 034. Desactivar Prettier
+[✔️] 035. Obtener un carro por ID
+[✔️] 036. Servicios
+[✔️] 037. Inyección de dependencias
+[✔️] 038. Pipes
+[✔️] 039. Exception Filters
+[✔️] 040. Post, Patch y Delete
+[✔️] 041. Código fuente de la sección
+[✔️] 042. Introducción a la sección
+[✔️] 043. Temas puntuales de la sección
+[✔️] 044. Continuación de la sección
+[✔️] 045. Interfaces y UUID
+[✔️] 046. Pipe - ParseUUIDPipe
+[✔️] 047. DTO - Data Transfer Object
+[✔️] 048. ValidationPipe - Class Validator y Class Transformer
+[✔️] 049. Pipes Globales - A nivel de Aplicación
+[✔️] 050. Crear el nuevo carro
+[✔️] 051. Actualizar un carro
+[✔️] 052. Actualizar el listado de carros
+[✔️] 053. Borrar un carro
+[✔️] 054. Resumen de la sección
+[✔️] 055. Código fuente de la sección
+[✔️] 056. Introducción a la sección
+[✔️] 057. Temas puntuales de la sección
+[✔️] 058. Continuación de la sección
+[✔️] 059. Nest CLI Resource - Brands
+[✔️] 060. Crear CRUD completo de Brands
+[✔️] 061. Crear servicio SEED para cargar datos
+[✔️] 062. Preparar servicios para insertar SEED
+[✔️] 063. Inyectar servicios en otros servicios
+[✔️] 064. Código fuente de la sección
+[✔️] 065. Introducción a la sección
+[✔️] 066. Generar build de producción básico
+[✔️] 067. Introducción a la sección
+[✔️] 068. Temas puntuales de la sección
+069. Inicio de proyecto - Pokedex
+070. Servir contenido estático
+071. Global Prefix
+072. Docker - DockerCompose - MongoDB
+073. README.md
+074. Conectar Nest con Mongo
+075. Crear esquemas y Modelos
+076. POST - Recibir y validar la data
+077. Crear Pokémon en base de datos
+078. Responder un error específico
+079. FindOneBy - Buscar por nombre, MongoId y no
+080. Actualizar Pokemon en base de datos
+081. Tarea - Validar valores únicos
+082. Eliminar un Pokemon
+083. CustomPipes - ParseMongoIdPipe
+084. Validar y eliminar en una sola consulta
+085. Respaldar código fuente en GitHub
+086. Código fuente de la sección
+087. Introducción a la sección
+088. Temas puntuales de la sección
+089. Continuación de proyecto
+090. Crear módulo SEED
+091. Nota de actualización - Axios
+092. Realizar petición http desde Nest
+093. Tarea - Insertar Pokemons por lote
+094. Resolución - Insertar Pokemons por lote
+095. Insertar multiples registros simultáneamente
+096. Crear un custom provider - opcional
+097. Paginación de Pokemons
+098. Transform DTOs
+099. Código fuente de la sección

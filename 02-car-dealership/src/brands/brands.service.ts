@@ -8,14 +8,14 @@ import { v4 as uuid } from 'uuid';
 export class BrandsService {
 
   private brands: Brand[] = [
-    {
-      id: uuid(),
-      name: 'Toyota',
-      createdAt: new Date().getTime()
-    }
+    // {
+    //   id: uuid(),
+    //   name: 'Toyota',
+    //   createdAt: new Date().getTime()
+    // }
   ]
-  create(createBrandDto: CreateBrandDto) {
-    
+  
+  create(createBrandDto: CreateBrandDto) {    
     const brand: Brand = {
       id: uuid(),
       name: createBrandDto.name.toLocaleLowerCase(), 
@@ -26,7 +26,7 @@ export class BrandsService {
   }
 
   findAll() {
-    return `This action returns all brands`;
+    return this.brands;
   }
 
   findOne(id: string) {
@@ -46,11 +46,16 @@ export class BrandsService {
       }
 
       return brand;
-});
+    });
   }
   
   remove(id: string) {
     const brand = this.findOne(id);
     this.brands = this.brands.filter(brand => brand.id !== id);
   }
+
+  fillCarsWithSeedData( brands: Brand[] ) {
+    this.brands = brands;
+  }
+
 }
