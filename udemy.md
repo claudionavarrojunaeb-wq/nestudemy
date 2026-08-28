@@ -66,15 +66,15 @@
 [✔️] 066. Generar build de producción básico
 [✔️] 067. Introducción a la sección
 [✔️] 068. Temas puntuales de la sección
-069. Inicio de proyecto - Pokedex
-070. Servir contenido estático
-071. Global Prefix
-072. Docker - DockerCompose - MongoDB
-073. README.md
-074. Conectar Nest con Mongo
-075. Crear esquemas y Modelos
-076. POST - Recibir y validar la data
-077. Crear Pokémon en base de datos
+[✔️] 069. Inicio de proyecto - Pokedex
+[✔️] 070. Servir contenido estático
+[✔️] 071. Global Prefix
+[✔️] 072. Docker - DockerCompose - MongoDB
+[✔️] 073. README. md
+[✔️] 074. Conectar Nest con Mongo
+[✔️] 075. Crear esquemas y Modelos
+[✔️] 076. POST - Recibir y validar la data
+[✔️] 077. Crear Pokémon en base de datos  -------------------> revisar nuevamente
 078. Responder un error específico
 079. FindOneBy - Buscar por nombre, MongoId y no
 080. Actualizar Pokemon en base de datos
