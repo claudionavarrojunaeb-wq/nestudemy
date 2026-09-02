@@ -75,7 +75,7 @@
 [✔️] 075. Crear esquemas y Modelos
 [✔️] 076. POST - Recibir y validar la data
 [✔️] 077. Crear Pokémon en base de datos  -------------------> revisar nuevamente
-078. Responder un error específico
+[✔️] 078. Responder un error específico
 079. FindOneBy - Buscar por nombre, MongoId y no
 080. Actualizar Pokemon en base de datos
 081. Tarea - Validar valores únicos
