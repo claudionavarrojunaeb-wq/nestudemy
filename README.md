@@ -8,6 +8,11 @@ http://localhost:3000/seed
 ```
 Mongo
 ```
+yarn add @nestjs/mongoose mongoose
+
+```
+
+conectar MongoDBCompass
 mongodb://localhost:27017/nest-pokemon
 
 docker exec -it 03-pokedesk-db-1 mongosh
